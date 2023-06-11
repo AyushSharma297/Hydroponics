@@ -1,6 +1,8 @@
 /*******************************
   IOT MINI PROJECT CODE
     PG50 Ayush Sharma
+
+    Thinkspeak Dashbord Link : https://thingspeak.com/channels/2133991
 **********************************/
 
 // Include the necessary libraries
