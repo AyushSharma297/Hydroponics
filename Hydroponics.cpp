@@ -3,6 +3,7 @@
     PG50 Ayush Sharma
 
     Thinkspeak Dashbord Link : https://thingspeak.com/channels/2133991
+    Link: "QV8BN5"
 **********************************/
 
 // Include the necessary libraries
@@ -21,7 +22,7 @@
 const char* ssid = "Ayush";
 const char* password = "11111111";
 const char* server = "api.thingspeak.com";
-const String apiKey = "43J5DPPRS2QV8BN5";
+const String apiKey = "43J5DPPRS2";
 
 /******************____PH Sensor___*****************/
 const int sensorPin = 36;  // Analog pin for pH sensor
